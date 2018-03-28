@@ -2,7 +2,7 @@
 
 This is the project repository for the DejaBrewTrades website. This website will become the landing platform for all BrewCrew members as well as any crypto enthusiasts.  
 
-[DejaBrewTrades](www.twitch.com/dejabrewtrades)
+[DejaBrewTrades - Twitch](www.twitch.com/dejabrewtrades)
 
 ## Task List
 
@@ -34,9 +34,19 @@ This is the project repository for the DejaBrewTrades website. This website will
 |:----:|:-----------------------| :-------:|
 | 1. | Index (Home) |Unfinished |
 | 2. | Memebership + Payment | Unfinished|
-| 3. | Courses | Unfinished|
-| 4. | Scanners | Unfinished|
+| 3. | Course | Unfinished|
+| 4. | Scanner | Unfinished|
 
 ### Home Page Content
 
-Navigation Bar (locked on scroll)
+1. Logo + Navigation Bar (locked on scroll) + Social.
+    - Navigation Bar Contents
+    - Home, Course, Scanner, and Login (membership page). 
+2. Bio SECTION
+3. Twitch Embedded SECTION
+4. Course Info SECTION
+5. Scanner Info SECTION
+6. Discord Info SECTION
+7. Legal Info FOOTER
+
+
