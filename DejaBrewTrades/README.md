@@ -6,7 +6,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 
 ## Task List
 
-Project Task Outline
+### Project Task Outline
 
 | #  | Task Name | Status |
 |:----:|:-----------------------| :-------:|
@@ -19,3 +19,22 @@ Project Task Outline
 | 7. | Add javascript components | Unfinished|
 | 8. | Set up pages for responsiveness (@media) | Unfinished|
 | 9. | UI/UX testing | Unfinished|
+
+## Website Details
+
+### Color Scheme
+
+|Color 1|Color 2|Color 3|Color 4|Color 5|
+
+### Pages
+
+| #  | Page Name | Status |
+|:----:|:-----------------------| :-------:|
+| 1. | Index (Home) |Unfinished |
+| 2. | Memebership + Payment | Unfinished|
+| 3. | Courses | Unfinished|
+| 4. | Scanners | Unfinished|
+
+### Home Page Content
+
+Navigation Bar (locked on scroll)
