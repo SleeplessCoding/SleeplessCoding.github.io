@@ -40,7 +40,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 ### Home Page Content
 
 1. Logo + Navigation Bar (locked on scroll) + Social.
-    - Navigation Bar Contents
+    #### Navigation Bar Contents
     - Home, Course, Scanner, and Login (membership page). 
 2. Bio SECTION
 3. Twitch Embedded SECTION
