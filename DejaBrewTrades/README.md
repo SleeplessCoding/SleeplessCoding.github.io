@@ -24,7 +24,9 @@ This is the project repository for the DejaBrewTrades website. This website will
 
 ### Color Scheme
 
-|Color 1|Color 2|Color 3|Color 4|Color 5|
+| Color 1 | Color 2 | Color 3 | Color 4 | Color 5 |
+|:-------:|:-------:|:-------:|:-------:|:-------:|
+| none | none | none | none | none |
 
 ### Pages
 
