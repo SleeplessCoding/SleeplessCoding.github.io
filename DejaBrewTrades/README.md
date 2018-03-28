@@ -1,4 +1,4 @@
-#DejaBrewTrades Website Project
+# DejaBrewTrades Website Project
 
 This is the project repository for the DejaBrewTrades website. This website will become the landing platform for all BrewCrew members as well as any crypto enthusiasts.  
 
