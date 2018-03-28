@@ -41,7 +41,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 
 1. Logo + Navigation Bar (locked on scroll) + Social. `NAV`
 
-       Navigation Bar Contents  
+    Navigation Bar Contents
     - Home, Course, Scanner, and Login (membership page). 
 2. Bio `SECTION`
 3. Twitch Embedded `EMBEDDED WINDOW`,`SECTION`
@@ -54,7 +54,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 
 1. Logo + Navigation Bar (locked on scroll) + Social. `NAV`
     
-       Navigation Bar Contents  
+    Navigation Bar Contents
     - Home, Course, and Scanner.
 2. Membership package details `SECTION`
 3. Testimonials `SECTION`
@@ -65,7 +65,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 
 1. Logo + Navigation Bar (locked on scroll) + Social. `NAV`
 
-       Navigation Bar Contents  
+    Navigation Bar Contents
     - Home, Scanner, and Login (membership page).
 2. Course description `SECTION`
 3. Course sample images `IMAGES`
@@ -76,7 +76,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 ### Scanner Page
 1. Logo + Navigation Bar (locked on scroll) + Social. `NAV`
 
-       Navigation Bar Contents  
+    Navigation Bar Contents
     - Home, Course, and Login (membership page).
 2. Scanner Description `SECTION`
 3. Scanner `EMBEDDED WINDOW`,`SECTION`
