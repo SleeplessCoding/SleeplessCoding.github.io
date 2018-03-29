@@ -133,19 +133,25 @@ Must identify the folder or document being changed and one of the valid actions 
 An action identifies what you are doing to the document or folder.
 
 List of actions:
-1. Addition
+1. Addition (Includes New Content)
 2. Removal
 3. Correction
 
 
 #### Summary Example:
 `ReadME.md Addition `, `Index.html Correction`, or `Style.css Removal`.
+multiple actions = `ReadME.md Addition + Correction `
 
 ### Description
 
 - Must Location(s) within the file or folder that the action has taken place.
 - If multiple sections are edited in a row, rather than listing each section, indicating from "A to D" is acceptable.
 - In order to limit description size, regular pushes are suggested to encourage document saves and the ability to check the work submitted. 
+
+#### Description Example:
+```
+Added the background images, corrected minor spelling errors in tile.
+```
 
 ## Built With
 
