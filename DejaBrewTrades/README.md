@@ -74,6 +74,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 6. Legal Info `FOOTER`
 
 ### Scanner Page
+
 1. Logo + Navigation Bar (locked on scroll) + Social. `NAV`
 
     Navigation Bar Contents
@@ -82,3 +83,40 @@ This is the project repository for the DejaBrewTrades website. This website will
 3. Scanner `EMBEDDED WINDOW`,`SECTION`
 4. Tips and Tricks or FAQ's `SECTION`
 5. Legal Info `FOOTER`
+
+## Mobile Design Elements
+
+This website will utilize a responsive design over a seperate mobile site implementation. The use of 'media queries' will solve screen adjustment requirements for all desktop viewport sizes as well as tablets and mobile phones, etc. 
+
+### Mobile "on/off" Switches
+
+The use of display toggling will allow the site to have different text content. This will also be used to reduce loading time caused by certain javascript features that are not needed on a smaller device.
+
+#### HTML Example
+```html
+<p class="desktop"> This is a full description meant for a larger display such as a desktop or a tablet.</p>
+<p class="mobile">This is a smaller device display</p>
+```
+<br>
+<br>
+### CSS Example
+```css
+.desktop {
+        display: block;
+}
+.mobile {
+        display: none;
+}
+/* This will toggle dekstop view off and then mobile view on */
+@media screen and (min-width:350px) and (max-width:500px){
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
+}
+```
+<br>
+<br>
+
