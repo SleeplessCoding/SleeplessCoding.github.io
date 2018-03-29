@@ -121,3 +121,43 @@ The use of display toggling will allow the site to have different text content. 
 <br>
 <br>
 
+## Built With
+
+Technology used to create this project.
+
+### Languages:
+
+```
+HTML5
+CSS3
+JavaScript
+```
+
+### Editors:
+
+```
+Visual Studio Code
+```
+[Download Visual Studio here.](https://code.visualstudio.com/ "Visual Studio Code 2018")
+
+## Resources
+
+1. [MDN Web Docs](https://developer.mozilla.org/en-US/ "Mozilla Developer Network")
+2. [W3schools](https://www.w3schools.com/ "W3schools")
+3. [Stackoverflow](https://stackoverflow.com/ "Stackoverflow")
+
+## Authors
+
+* **Nicholas Weinold** - *Initial work* - [SleeplessCoding](https://github.com/SleeplessCoding)
+
+* **Daniel Nestor** - *Initial work* - [DNestor95](https://github.com/DNestor95)
+
+
+## License
+
+This project is not licensed currently but as projects grow the Apache 2.0 License will be applied.</br>
+All work is protected under standard Intellectual Property Law Copyrights | All Rights Reserved. 
+
+## Acknowledgments
+
+* None, so far...
