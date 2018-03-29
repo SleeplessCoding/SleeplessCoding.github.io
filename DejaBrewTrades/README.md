@@ -99,6 +99,7 @@ The use of display toggling will allow the site to have different text content. 
 ```
 <br>
 <br>
+
 ### CSS Example
 ```css
 .desktop {
