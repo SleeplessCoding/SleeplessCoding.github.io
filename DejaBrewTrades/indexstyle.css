@@ -1,0 +1,54 @@
+/* Style page for Index.html */
+
+
+/* class name rules = property location, property description, property  file type */
+/*Global - html selectors*/
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+ul {
+    list-style-type: none;
+}
+/*
+####
+body
+####
+*/
+body {
+    width: 100%;
+}
+/*header - NONE*/
+
+/*
+####
+nav
+####
+*/
+.nav {
+
+}
+.nav_logo_IMG {
+
+}
+.nav_list {
+    list-style-type: none;
+    display: inline-block;
+}
+.nav_list_item {
+
+}
+/*
+####
+main
+####
+*/
+.main {
+
+}
+/*
+####
+footer
+####
+*/
+
