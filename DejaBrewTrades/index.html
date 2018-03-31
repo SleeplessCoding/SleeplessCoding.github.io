@@ -11,33 +11,33 @@
         <link rel="stylesheet" type="text/css" href="">
     </head>
 <!-- BODY -->
-    <body>
+    <body id="body" class="flex">
     <!-- HEADER (NOT USED) -->
         <header></header>
     <!-- NAVIGATION BAR -->
-        <nav id="nav">
+        <nav id="nav" class="flex">
             <div>
                 <img class="nav_logo_IMG" src="placeholder_IMG.jpg" alt="LogoImage">
             </div>
             <ul class="nav_list">
-                <li class="nav_list_item">Home</li>
-                <li class="nav_list_item">Course</li>
-                <li class="nav_list_item">Scanner</li>
-                <li class="nav_list_item">Login</li>
+                <li class="nav_list_item"><a href=#top>Home</a></li>
+                <li class="nav_list_item"><a href="course.html" target="_blank">Course</a>></li>
+                <li class="nav_list_item"><a href="scanner.html" target="_blank">Scanner</a></li>
+                <li class="nav_list_item"><a href="login.html" target="_blank">Login</a></li>
             </ul>
         </nav>
     <!-- MAIN -->
         <main id="main">
         <!-- BIO SECTION -->
-            <section class="bio_section">
+            <section id="bio_section">
                 <h1>Bio</h1>
             </section>
         <!-- TWITCH SECTION -->
-            <section class="twitch_section">
+            <section id="twitch_section">
                 <h1>Twitch Embedded</h1>
                     <iframe
-                        class="twitch_vid" 
-                        src="http://player.twitch.tv/?channel={dejabrewtrades}" 
+                        id="twitch_vid" 
+                        src="REMOVEhttp://player.twitch.tv/?channel={dejabrewtrades}" 
                         height="180" 
                         width="320" 
                         frameborder="0" 
@@ -46,21 +46,21 @@
                      </iframe>
             </section>
         <!-- COURSE SECTION -->
-            <section class="course_section">
+            <section id="course_section">
                 <h1>Course Info</h1>
             </section>
         <!-- SCANNER SECTION -->
-            <section class="scanner_section">
+            <section id="scanner_section">
                 <h1>Scanner Info</h1>
             </section>
         <!-- DISCORD SECTION -->
-            <section class="discord_section">
+            <section id="discord_section">
                 <h1>Discord Info</h1>
             </section>
         </main>
     </body>
 <!-- FOOTER -->
-    <footer>
+    <footer id="footer">
         <h1>Legal Info</h1>
     </footer>
 </html>

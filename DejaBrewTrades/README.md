@@ -127,6 +127,16 @@ A commit push request must include a summary and short description.
 ### Summary
 
 Must identify the folder or document being changed and one of the valid actions below.
+If there are more than two files/folder then Multiple must be used to dientify and the description should include the locations of change
+```
+Summary
+Multiple Correction, Addition, Removal
+
+Description
+index.html corrections - some correction description
+style.css addition - added style.css
+responsive.css removal - removed corrupted responsive.css file
+```
 
 #### Actions
 
