@@ -47,7 +47,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 3. Twitch Embedded `EMBEDDED WINDOW`,`SECTION`
 4. Course Info `SECTION`
 5. Scanner Info `SECTION`
-6. Discord Info `SECTION`
+6. Contact Info `SECTION`
 7. Legal Info `FOOTER`
 
 ### Memebership + Payment Page
