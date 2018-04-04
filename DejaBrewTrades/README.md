@@ -26,7 +26,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 
 | Color 1 | Color 2 | Color 3 | Color 4 | Color 5 |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| #0b0c10 | < lighterShade | < lighterShade | Bold Bright | < darkerShade |
+| #15171E | #2a2e3c| #3f455a | Bold Bright | < darkerShade |
 
 ### Pages
 
