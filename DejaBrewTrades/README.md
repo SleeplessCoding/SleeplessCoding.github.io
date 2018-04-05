@@ -32,10 +32,11 @@ This is the project repository for the DejaBrewTrades website. This website will
 
 | #  | Page Name | Status |
 |:----:|:-----------------------| :-------:|
-| 1. | Index (Home) |Unfinished |
-| 2. | Memebership + Payment | Unfinished|
-| 3. | Course | Unfinished|
-| 4. | Scanner | Unfinished|
+| 1. | Index (Home) *public | Unfinished |
+| 2. | Login | Unfinished |
+| 3. | Course *public | Unfinished |
+| 4. | Scanner *public | Unfinished |
+| 5. | Redirect Page/Error "not logged in"| Unfinished |
 
 ### Home Page Content
 
