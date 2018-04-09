@@ -54,7 +54,23 @@ main
 ####
 */
 #main {
-
+    width: 100%;
+}
+#twitch_section {
+    width: 100%;
+    order: 0;
+}
+#course_section {
+    width: 100%;
+    order: 1;
+}
+#scanner_section {
+    width: 100%;
+    order: 2;
+}
+#contact_section {
+    width: 100%;
+    order: 3;
 }
 
 /*
