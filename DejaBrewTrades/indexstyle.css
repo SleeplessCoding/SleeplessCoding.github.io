@@ -1,4 +1,4 @@
-/* Style page for Index.html */
+/* Style page section for Index.html */
 
 /* class name rules = property location, property description, property  file type */
 
@@ -21,14 +21,24 @@ html {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px; 
 }
+body {
+    width: 100%;
+}
+nav {
+    width: 100%;
+}
+main {
+    width: 100%;
+}
+footer {
+    width: 100%;
+}
 /*
 ####
 body
 ####
 */
-#body {
-    width: 100%;
-}
+
 /*header - NONE*/
 
 /*
@@ -36,9 +46,7 @@ body
 nav
 ####
 */
-#nav {
-    width: 100%;
-}
+
 .nav_logo_IMG {
 
 }
@@ -53,9 +61,6 @@ nav
 main
 ####
 */
-#main {
-    width: 100%;
-}
 #twitch_section {
     width: 100%;
     order: 0;
@@ -79,6 +84,36 @@ footer
 ####
 */
 
-#footer {
-    width: 100%;
+
+/* Style page section for course.html */
+
+#course_main {
+    background-color: black;
+}
+.course_title {
+    text-align: center;
+    height: 3em;
+    line-height: 3em;
+    vertical-align: middle;
+    color: lightgreen;
+    background-color: #161515;
+    margin-bottom: 1em;
+}
+.course_intro {
+    text-align: center;
+    height: 3em;
+    line-height: 3em;
+    vertical-align: middle;
+    color: lightgreen;
+    background-color: #161515;
+    margin-bottom: 1em;
+}
+.course_info_box {
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    line-height: 75px;
+    font-size: 1.8em; /* <-- here is an example where i would use em instead of designating a px size you had it set to 30px which is aboput 1.8em*/
+    color: lightgreen;
+    background-color: #161515;
 }
