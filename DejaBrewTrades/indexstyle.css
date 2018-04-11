@@ -116,4 +116,5 @@ footer
     font-size: 1.8em; /* <-- here is an example where i would use em instead of designating a px size you had it set to 30px which is aboput 1.8em*/
     color: lightgreen;
     background-color: #161515;
+    margin-bottom: 1em;
 }
