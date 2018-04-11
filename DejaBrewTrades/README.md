@@ -11,7 +11,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 | #  | Task Name | Status |
 |:----:|:-----------------------| :-------:|
 | 1. | Frame HTML base content | Working...|
-| 2. | Setup flex containers | Unfinished|
+| 2. | Setup flex containers | Working...|
 | 3. | CSS core elements (font-family, etc) | Unfinished|
 | 4. | Add titles, images, and paragraph content | Unfinished|
 | 5. | Adjust content placement | Unfinished|
@@ -32,7 +32,7 @@ This is the project repository for the DejaBrewTrades website. This website will
 
 | #  | Page Name | Status |
 |:----:|:-----------------------| :-------:|
-| 1. | Index (Home) *public | Unfinished |
+| 1. | Index (Home) *public | Working... |
 | 2. | Login | Unfinished |
 | 3. | Course *public | Unfinished |
 | 4. | Scanner *public | Unfinished |
