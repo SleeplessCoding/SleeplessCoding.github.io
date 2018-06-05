@@ -1,25 +1,37 @@
-// Declare variables
+// ### Declare variables ###
 
-var heightInput;
-var widthInput;
+var gridHeight;
+var gridWidth;
+var inputHeight;
+var inputWidth;
 
-// Add event listeners
+// ### Add event listeners ###
 
-// height input listener
+// HEIGHT INPUT LISTENER
 
+// listener function for the height input
 function getHeight(event) {
-    heightInput = event.target.value;
+    gridHeight = event.target.value;
+    console.log('Get Height Triggered');
+}
+// giving the inputHeight the html id inputHeight value
+inputHeight = document.querySelector("#inputHeight");
+// adding the listner to the id inputHeight and passing the type, function parameters
+inputHeight.addEventListener("input", getHeight, false);
+
+// WIDTH INPUT LISTENER
+// listener function for the width input
+function getWidth(event) {
+    gridWidth = event.target.value;
+    console.log('Get Width Triggered');
 }
 
-function getWidth() {
-    widthInput = event.target.value;
-}
+// giving the inputWidth the html id inputWidth value
+inputWidth = document.querySelector("#inputWidth");
 
-// width input listener
+// adding the listner to the id inputWidth and passing the type, function parameters
+inputWidth.addEventListener("input", getWidth, false);
 
-
-// Select color input
-
-// Select size input
+// COLOR INPUT LISTENER
 
 // When size is submitted by the user, call makeGrid()
