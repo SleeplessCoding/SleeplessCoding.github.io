@@ -4,6 +4,8 @@ var gridHeight;
 var gridWidth;
 var inputHeight;
 var inputWidth;
+var selectedColor;
+var activeColor;
 
 // ### Add event listeners ###
 
@@ -33,5 +35,17 @@ inputWidth = document.querySelector("#inputWidth");
 inputWidth.addEventListener("input", getWidth, false);
 
 // COLOR INPUT LISTENER
+
+// listener function for the color selection
+function setColor(event) {
+    selectedColor = event.target.value;
+    console.log('Get Color Triggered');
+}
+
+// giving the selectedColor the html id colorPicker value
+activeColor = document.querySelector("#colorPicker");
+
+// adding the listener to the id colorPicker and passing the type, function parameters
+activeColor.addEventListener("input", setColor, false);
 
 // When size is submitted by the user, call makeGrid()
